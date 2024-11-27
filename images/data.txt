@@ -1,0 +1,128 @@
+var ls = [
+      [
+        {
+          'id': 1,
+          'name': 'EM water',
+          'price': 1.5,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/EM water 1500.jpg'
+        },
+        {
+          'id': 2,
+          'name': 'Kiwi soda',
+          'price': 1.75,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/Kiwi soda.jpg'
+        },
+        {
+          'id': 3,
+          'name': 'OrangeShake',
+          'price': 2.05,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/OrangeShake.jpg'
+        },
+        {
+          'id': 4,
+          'name': 'Sm7',
+          'price': 1.85,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/sm7.jpg'
+        },
+        {
+          'id': 5,
+          'name': 'sting can',
+          'price': 0.85,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/sting can.jpg'
+        },
+        {
+          'id': 6,
+          'name': 'Yeos Soy Bean Milk',
+          'price': 0.85,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/Yeos Soy Bean Milk.jpg'
+        },
+        {
+          'id': 7,
+          'name': 'cocacola',
+          'price': 0.5,
+          'category': 'soft drink',
+          'country': 'KH',
+          'photo': 'images/cocacola can.jpg'
+        },
+      ],
+      [
+        {
+          'id': 100,
+          'name': 'Chicken quessadilla',
+          'price': 3.85,
+          'category': 'Food',
+          'country': 'KH',
+          'photo': 'images/Chicken quessadilla.jpg'
+        },
+        {
+          'id': 101,
+          'name': 'fl9',
+          'price': 2.75,
+          'category': 'Food',
+          'country': 'KH',
+          'photo': 'images/fl9.jpg'
+        },
+        {
+          'id': 102,
+          'name': 'Hanami red can',
+          'price': 2.75,
+          'category': 'Food',
+          'country': 'TH',
+          'photo': 'images/Hanami red can.jpg'
+        },
+        {
+          'id': 103,
+          'name': 'Nutela sanwich',
+          'price': 4.75,
+          'category': 'Food',
+          'country': 'KH',
+          'photo': 'images/Nutela sanwich.jpg'
+        },
+        {
+          'id': 104,
+          'name': 'spaghetti',
+          'price': 5.05,
+          'category': 'Food',
+          'country': 'KH',
+          'photo': 'images/spaghetti.jpg'
+        },
+        {
+          'id': 105,
+          'name': 'Vitamilk Yaor',
+          'price': 0.75,
+          'category': 'Food',
+          'country': 'TK',
+          'photo': 'images/Vitamilk Yaor.jpg'
+        },
+      ],
+      [
+        {
+          'id': 200,
+          'name': 'Angkor botle',
+          'price': 1.75,
+          'category': 'Beer',
+          'country': 'KH',
+          'photo': 'images/Angkor botle.jpg'
+        },
+        {
+          'id': 201,
+          'name': 'Angkor Can',
+          'price': 1.70,
+          'category': 'Beer',
+          'country': 'KH',
+          'photo': 'images/Angkor Can.jpg'
+        },
+      ],
+    ];
